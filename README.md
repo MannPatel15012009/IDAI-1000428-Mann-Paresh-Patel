@@ -121,5 +121,5 @@ By blending **AI-based intent recognition** with **custom entities**, the chatbo
 
 ---
 
-*Created by Jashith Hemendra Rathod — Aspee Nutan Academy (Grade 11)*  
+*Created by Mann Paresh Patel — Aspee Nutan Academy (Grade 11)*  
 *Course: Artificial Intelligence — Real-World Applications and Implications*
